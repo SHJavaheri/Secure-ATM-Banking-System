@@ -57,10 +57,13 @@ Use the GUI to register, log in, and perform transactions
 ## 📖 Authors
 ```bash
 Hamid Javaheri (Me)
+LinkedIn: https://www.linkedin.com/in/hamidjavaheri/
 
 Syed Ammar Ali
+LinkedIn: https://www.linkedin.com/in/ammarswork/
 
 Simrat Gill
+LinkedIn: https://www.linkedin.com/in/simg16/
 
 Mohammad Al-Shalabi
 ```
